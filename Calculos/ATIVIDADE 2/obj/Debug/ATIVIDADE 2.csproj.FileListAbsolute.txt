@@ -1,0 +1,15 @@
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.exe.config
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.exe
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.pdb
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.csproj.AssemblyReference.cache
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.csproj.CoreCompileInputs.cache
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.exe
+C:\Users\Vs Studio\Desktop\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.exe
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\bin\Debug\ATIVIDADE 2.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.exe
+C:\Users\Pedro\Desktop\Estudos\C#\ATIVIDADE 2\ATIVIDADE 2\obj\Debug\ATIVIDADE 2.pdb
