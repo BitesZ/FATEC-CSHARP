@@ -1,0 +1,7 @@
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\Atividade 5\Atividade 5\obj\Debug\Atividade 5.pdb
