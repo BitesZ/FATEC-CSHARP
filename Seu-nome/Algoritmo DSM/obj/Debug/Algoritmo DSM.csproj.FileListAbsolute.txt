@@ -1,0 +1,15 @@
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.exe.config
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.exe
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.pdb
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.csproj.AssemblyReference.cache
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.csproj.CoreCompileInputs.cache
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.exe
+C:\Users\Vs Studio\Desktop\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\obj\Debug\Algoritmo DSM.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Algoritmo DSM\Algoritmo DSM\bin\Debug\Algoritmo DSM.pdb
