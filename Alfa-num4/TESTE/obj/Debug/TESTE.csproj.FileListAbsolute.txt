@@ -1,0 +1,6 @@
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\bin\Debug\TESTE.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\bin\Debug\TESTE.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\bin\Debug\TESTE.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\obj\Debug\TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\obj\Debug\TESTE.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Funções Alfanuméricas\TESTE\TESTE\obj\Debug\TESTE.pdb
