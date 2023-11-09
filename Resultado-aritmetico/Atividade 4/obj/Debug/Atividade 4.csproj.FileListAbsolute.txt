@@ -1,0 +1,15 @@
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe.config
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\bin\Debug\Atividade 4.pdb
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.AssemblyReference.cache
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.CoreCompileInputs.cache
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\obj\Debug\Atividade 4.exe
+C:\Users\Vs Studio\Desktop\Atividade 4\Atividade 4\obj\Debug\Atividade 4.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\bin\Debug\Atividade 4.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\bin\Debug\Atividade 4.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\obj\Debug\Atividade 4.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\obj\Debug\Atividade 4.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 4\Atividade 4\obj\Debug\Atividade 4.pdb
