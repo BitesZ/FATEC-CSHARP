@@ -1,0 +1,8 @@
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.AssemblyReference.cache
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.CoreCompileInputs.cache
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe.config
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\bin\Debug\Atividade 6.pdb
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\obj\Debug\Atividade 6.exe
+C:\Users\Vs Studio\Desktop\Atividade 6\Atividade 6\obj\Debug\Atividade 6.pdb
