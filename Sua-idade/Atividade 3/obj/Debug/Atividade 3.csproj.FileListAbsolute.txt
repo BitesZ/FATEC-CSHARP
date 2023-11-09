@@ -1,0 +1,15 @@
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.AssemblyReference.cache
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe.config
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\bin\Debug\Atividade 3.pdb
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\obj\Debug\Atividade 3.exe
+C:\Users\Vs Studio\Desktop\Atividade 3\Atividade 3\obj\Debug\Atividade 3.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe.config
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\bin\Debug\Atividade 3.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\bin\Debug\Atividade 3.pdb
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\obj\Debug\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\obj\Debug\Atividade 3.exe
+C:\Users\Pedro\Desktop\Estudos\C#\Atividade 3\Atividade 3\obj\Debug\Atividade 3.pdb
